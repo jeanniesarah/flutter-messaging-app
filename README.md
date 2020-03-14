@@ -1,4 +1,4 @@
-# chatflutterapp
+# chat flutter app
 
 A fast messaging app for Android &amp; iOS made with Flutter.
 
